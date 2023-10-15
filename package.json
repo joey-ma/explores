@@ -1,0 +1,32 @@
+{
+  "name": "explores",
+  "version": "1.0.0",
+  "description": "Follow me as I explore different technologies! @joey-ma on GitHub. @_joey_ma on X/Twitter.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joey-ma/explores.git"
+  },
+  "keywords": [
+    "joey-ma",
+    "explores",
+    "html"
+  ],
+  "author": "Joey Ma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joey-ma/explores/issues"
+  },
+  "homepage": "https://github.com/joey-ma/explores#readme",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "3.0.3"
+  }
+}
